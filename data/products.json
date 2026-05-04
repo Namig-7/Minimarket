@@ -1,0 +1,12 @@
+{
+  "Geyimlər": [
+    { "id": 1, "name": "T-Shirt", "price": 12.5 },
+    { "id": 2, "name": "Hoodie", "price": 45.0 },
+    { "id": 3, "name": "Jeans", "price": 60.0 }
+  ],
+  "Elektronika": [
+    { "id": 1, "name": "Qulaqlıq", "price": 35.0 },
+    { "id": 2, "name": "Powerbank", "price": 25.0 },
+    { "id": 3, "name": "Siçan", "price": 15.0 }
+  ]
+}
