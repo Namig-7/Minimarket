@@ -1,0 +1,8 @@
+Login → səhv 3 dəfə → blok
+Login → doğru giriş
+
+Product seç → səbətə əlavə
+
+Checkout → balansdan çıxıldı
+
+Tarixçə yoxla
